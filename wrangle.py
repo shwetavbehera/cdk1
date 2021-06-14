@@ -6,23 +6,13 @@ import pandas as pd
 
 data_types = {
     'time': 'str',
-    'hti000yx': 'str',
-    'hti000mx': 'str',
-    'hns000mx': 'Int32',
-    'hns000y0': 'Int32',
     'hto000y0': 'Int32',
-    'hto000mx': 'Int32',
     'hto000m0': 'Int32'
 }
 
 columns = {
     'stn': 'Station',
-    'hti000yx': 'Neuschneehöhe Datum der grössten Tagessumme des Jahres',
-    'hti000mx': 'Neuschneehöhe Datum der grössten Tagessumme des Monats',
-    'hns000mx': 'Neuschneehöhe grösste Tagessumme des Monats',
-    'hns000y0': 'Neuschneehöhe Jahressumme der täglichen Messungen',
     'hto000y0': 'Schneehöhe Jahresmittel',
-    'hto000mx': 'Schneehöhe Maximum des Monats der Morgenmessungen von 6 UTC',
     'hto000m0': 'Schneehöhe Monatsmittel'
 }
 
@@ -147,7 +137,8 @@ station_location = {
 }
 
 
-def import_files(pattern='*-*.txt'):
+# Here I changed the pattern to match the extracted file names.
+def import_files(pattern='*_data.txt'):
     all_data_df = pd.DataFrame()
 
     # filename - names of all files in a specific folder matching the conditions described in glob()
@@ -175,16 +166,16 @@ def import_files(pattern='*-*.txt'):
     all_data_df['Monate'] = all_data_df['time'].apply(lambda x: x[4:6])
     all_data_df['Monate'] = all_data_df['Monate'].replace('', None).astype('float').astype('Int32')
 
-    all_data_df['hti000yx'] = pd.to_datetime(all_data_df['hti000yx']).dt.date
-    all_data_df['hti000mx'] = pd.to_datetime(all_data_df['hti000mx']).dt.date
+    columns_order = ['stn', 'Höhe', 'Ort', 'Jahre', 'Monate', 'hto000m0']
+
+    # Schneehöhe Jahresmittel is not present until the end of the year
+    if 'hto000y0' in all_data_df.columns:
+        columns_order.append('hto000y0')
 
     all_data_df['Höhe'] = all_data_df['stn'].apply(lambda x: station_heights[x]).astype('int32')
     all_data_df['Ort'] = all_data_df['stn'].apply(lambda x: station_location[x])
 
     all_data_df = all_data_df.drop('time', axis=1)
-
-    columns_order = ['stn', 'Höhe', 'Ort', 'Jahre', 'Monate',
-                     'hti000yx', 'hti000mx', 'hns000mx', 'hns000y0', 'hto000y0', 'hto000mx', 'hto000m0']
     all_data_df = all_data_df[columns_order]
 
     all_data_df = all_data_df.rename(columns=columns)
