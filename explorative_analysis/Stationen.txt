@@ -1,0 +1,136 @@
+Obersaxen-Mundaun
+	St. Moritz 		
+		STZ		1895
+		SLF7MZ		1850
+		SMO		1800
+		SMZ		1825	
+		MOZ		1850
+
+	Pontresina
+		PON		1787
+		POA		1780
+
+	Celerina Bestand
+		WSLCLB		1866
+		WSLCLF		1760
+
+	Zuoz
+		ZUO		1750
+		MMZOZ		1662
+		SLF7ZU		1710
+		ZOZ		1850
+
+	Maloja
+		SLF7MA		1810
+
+Arosa Lenzerheide
+	Arosa
+		ARS		1900
+		ARD		1840
+		ARO		1878
+		TSG		2040
+		MAN		2800
+
+	Valbella
+		VAB		1568
+		VBA		2560
+
+	Lenzerheide
+		LEH		1400
+		LEZ		1500
+
+Laax (Skigebiet)
+	Laax
+		SLF5PL		1630
+
+Silvretta Arena
+	Silvretta
+		SIV		2470
+		SVH		2380
+
+Gotthard Oberalp
+	Sedrun
+		SLF5SE		1420
+		SED		1429
+
+Obersaxen-Mundaun
+	Obersaxen
+		SLF5OB		1420
+
+	Vella
+		VEL		1245
+
+Savognin Bergbahnen
+	Savognin
+		MMSVG		1168
+		SVG		1172
+
+Motta Naluns Scuol
+	Scuol
+		SCU		1304
+		SCL		1240
+		SLF7SU		1285
+
+Bivio
+	Bivio
+		BIV		1856
+
+Grüsch-Danusa
+	Grüsch
+		GRU		650
+		GUS		590
+
+Splügen Tambo
+	Splügen
+		SDO		1460
+		SPG		1460
+		BOGRSP		1473
+		SPL		1504
+
+Tschiertschen
+	Tschiertschen
+		TST		1273
+	
+Darlux Bergün
+	Bergün / Latsch
+		LAT		1408
+
+Minschuns Val Müstair
+	Val Müstair
+		STM		1390
+		SMM		1386
+
+Vals
+	Vals
+		VAS		1250
+		SLF5VA		1260
+		VLS		1242
+		SLFVL2		2070
+		SLFVLS		3121
+
+Avers
+	Avers
+		AVB		1993
+
+San Bernardino
+	San Bernardino
+		SBD		1625
+		BOGRSB		1631
+		BEO		2073
+		SBV		1620
+
+St. Antönien
+	St. Antönien
+		SAN		1456
+
+
+
+
+Parameter
+	Neuschneehöhe; 		Datum der grössten Tagessumme des Jahres		hti000yx	Schnee	Jahr	Datum
+	Neuschneehöhe; 		Datum der grössten Tagessumme des Monats		hti000mx	Schnee	Monat	Datum
+	Neuschneehöhe; 		grösste Tagessumme des Monats				hns000mx	Schnee	Monat	Zentimeter
+	Neuschneehöhe; 		Jahressumme der täglichen Messungen			hns000y0	Schnee	Jahr	Zentimeter
+	Schneehöhe; 		Jahresmittel						hto000y0	Schnee	Jahr	Zentimeter
+	Schneehöhe; 		Maximum des Monats der Morgenmessungen von 6 UTC	hto000mx	Schnee	Monat	Zentimeter
+	Schneehöhe; 		Monatsmittel						hto000m0	Schnee	Monat	Zentimeter
