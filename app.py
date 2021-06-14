@@ -143,15 +143,7 @@ app.layout = html.Div(children=[
             Temperaturanstieg, es gibt viele weitere Klimaindikatoren, welche die Klimaänderungen verdeutlichen. 
             In der Bergwelt ist dies natürlich die Menge des Schnees. Unten kann man die Veränderungen der 
             Schneemenge in den bergigen Gebieten des Kantons Graubünden beobachten.
-             
-            '''),
-
-            html.Div([
-                html.Img(src=app.get_asset_url('middle.jpeg'),
-                         style={'margin-bottom': '30px'}),
-            ], style={'text-align': 'center'}),
-
-            dcc.Markdown('''
+            
 
             Die Situation ist ernst. Schweizer Meteorologen berichten, dass nicht nur die Gesamtmenge 
             des gefallenen Schnees abgenommen hat, sondern auch die Anzahl der Tage mit Neuschnee 
