@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 import plotly.express as px
 
-from webapp.database import s_monatsmittel, stations, s_jahresmittel, years, heatmap_values, \
+from .database import s_monatsmittel, stations, s_jahresmittel, years, heatmap_values, \
     heatmap_station_labels, heatmap_year_labels, altitude
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -128,7 +128,7 @@ app.layout = html.Div(children=[
     html.Div([
         html.Div([
             html.Div([
-                html.Img(src=app.get_asset_url('header.jpeg'),
+                html.Img(src=app.get_asset_url('oberengadin.jpg'),
                          style={'margin-bottom': '30px'}),
             ], style={'text-align': 'center'}),
             html.Div([
