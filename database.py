@@ -1,8 +1,6 @@
 import pandas as pd
 
 all_data_df = pd.read_pickle("all_data.pkl")
-all_data_df = all_data_df[[
-    'Station', 'Höhe', 'Ort', 'Jahre', 'Monate', 'Schneehöhe Jahresmittel', 'Schneehöhe Monatsmittel']]
 
 s_monatsmittel = all_data_df[~all_data_df["Schneehöhe Monatsmittel"].isna()]
 winter_months = [10, 11, 12, 1, 2, 3, 4, 5]
