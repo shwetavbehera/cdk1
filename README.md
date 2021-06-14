@@ -21,6 +21,19 @@ You need to install the following libraries:
 - database.py - Data processing functions for graphs.
 - initial_download.py - Initial download, wrangle and import of data into SQL.
 - monthly_download.py - Monthly data scrape, wrangle and import of data in SQL.
-- assets/ - Images for HTML
-- data_story/ - Images for data story
-- explorative_analysis/ - Initial explorative analysis files
+- assets/ - Images for HTML.
+- data_story/ - Resources for data story.
+- explorative_analysis/ - Initial explorative analysis files.
+- sql/ - PostgreSQL related files.
+
+The webapp is composed by 4 components:
+
+- WebApp
+- Database
+- Initial download
+- Monthly scraping
+
+## How to run the WebApp
+
+Open Windows command prompt by typing cmd and pressing enter in the start menu.
+Use **cd** to go to project folder and run **python app.py**.
