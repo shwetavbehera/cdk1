@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 import plotly.express as px
 
-from .database import s_monatsmittel, stations, s_jahresmittel, years, heatmap_values, \
+from database import s_monatsmittel, stations, s_jahresmittel, years, heatmap_values, \
     heatmap_station_labels, heatmap_year_labels, altitude
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
