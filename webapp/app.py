@@ -13,6 +13,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 GRAPH_TEMPLATE = 'plotly_white'
 
+
 @app.callback(
     Output('station_yearly_monthly_mean', 'figure'),
     Input('station1', 'value'))  # Otherwise no output :(
@@ -173,9 +174,12 @@ app.layout = html.Div(children=[
             auf der linken Seite bis zu den am höchsten gelegenen Stationen auf der rechten Seite. Während
             die tiefer gelegenen Stationen durchgängig niedrige mittlere Schneemengen aufweisen, zeigen
             die höher gelegenen Stationen einen interessanten Trend mit abnehmender Schneehöhe.
-            Überraschenderweise hat das Jahr 2020 dieses Muster durchbrochen, so dass es ein klares
+            Überraschenderweise hat der Winter 2020/21 dieses Muster durchbrochen, so dass es ein klares
             in vivo Experiment ist, dass nicht alles verloren ist, wenn wir es nur schaffen, unseren
-            Kohlenstoff-Fußabdruck zu senken.
+            Kohlenstoff-Fußabdruck zu senken, was im letzten Jahr aufgrund der Pandemie geschah.
+            Abgesehen von dieser netten Anomalie mit viel Schnee in diesem Winter, die Situation ist ernst
+            und es könnte passieren, dass man statt durch eine Bergwiese bald durch ein wüstenhaftes
+            Terrain wandert. Die Klimabedingungen ändern sich und unten kann man selbst beobachten, wie stark.
 
             ''',
                          style={'margin-bottom': '30px'}),
