@@ -8,7 +8,7 @@ import plotly.express as px
 
 import pandas as pd
 
-from webapp.database import s_monatsmittel, stations, s_jahresmittel, years, all_data_df
+from database import s_monatsmittel, stations, s_jahresmittel, years, all_data_df
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
