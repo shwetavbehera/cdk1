@@ -136,7 +136,7 @@ app.layout = html.Div(children=[
             ], style={'text-align': 'center'}),
             dcc.Markdown('''
             Laut der Beherbergungsstatistik des Kantons, die idyllischen Berge Graubündens sorgen 
-            für mehr als 5 millionen Übernachtungen pro Jahr. aber auch die märchenhaften 
+            für mehr als 5 millionen Übernachtungen pro Jahr. Aber auch die märchenhaften
             Schneehänge dieses Kantons können sich dem Klimawandel und den unvermeidlichen 
             Veränderungen nicht entziehen. Die Klimaänderung zeigt sich nicht nur im signifikanten 
             Temperaturanstieg, es gibt viele weitere Klimaindikatoren, welche die Klimaänderungen verdeutlichen. 
@@ -181,7 +181,7 @@ app.layout = html.Div(children=[
                          style={'margin-bottom': '30px'}),
             html.Div([
                 html.Div([
-                    html.Label('Die erste Station auswählen'),
+                    html.Label('Station Auswahl:'),
                     dcc.Dropdown(
                         id='station1',
                         options=stations,
@@ -200,13 +200,13 @@ app.layout = html.Div(children=[
 
                 html.Div([
                     html.Div([
-                        html.Label('Das erste Jahr auswählen'),
+                        html.Label('Das 1. Jahr auswählen:'),
                         dcc.Dropdown(
                             id='year1',
                             options=years,
                             value='1968'
                         ),
-                        html.Label('Das zweite Jahr auswählen'),
+                        html.Label('Das 2. Jahr auswählen:'),
                         dcc.Dropdown(
                             id='year2',
                             options=years,
@@ -217,7 +217,7 @@ app.layout = html.Div(children=[
                 ]),
                 html.Div([
                     html.Div([
-                        html.Label('Die zweite Station auswählen'),
+                        html.Label('Die 2. Station auswählen:'),
                         dcc.Dropdown(
                             id='station2',
                             options=stations,
