@@ -1,5 +1,5 @@
 import pandas as pd
-from monthly_download.py import *
+from monthly_download import *
 
 # TODO: Replace reading from the Pickle file with SQL
 all_data_df = get_data()
