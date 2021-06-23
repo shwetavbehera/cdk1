@@ -136,7 +136,7 @@ app.layout = html.Div(children=[
                 html.H1('Klimawandel in der Berge'),
             ], style={'text-align': 'center'}),
             dcc.Markdown('''
-            Was wäre der Schweizer Winter ohne Schnee? Viele Schweizer Einwohner geniessen den jährlichen Schnee. 
+            **Was wäre der Schweizer Winter ohne Schnee? Viele Schweizer Einwohner geniessen den jährlichen Schnee. 
             Ob durch Sport oder allgemeine Tourismus, die Wirtschaft der Schweiz profitiert von dem Zufluss 
             von Touristen in den Bergen. Wirft man ein Blick in die Vergangenheit, sieht die heutige Situation aber 
             duster aus. Mit dem zunehmenden Effekt vom globalen Klimawandel in den letzten 50 Jahren ist die 
@@ -192,7 +192,8 @@ app.layout = html.Div(children=[
             die Saison in 2020 einige Monate später vorkommt als in 1970. Zudem gibt es auch weniger Monate mit 
             hoher Schneehöhe. Das hat zur Folge, dass heute Schneesport Saisons kürzer sind. Mit allen 
             Schneesportler und Schneesportlerinnen und neue Interessierte jedes Jahr, wird es schwieriger 
-            dieses Volumen zu befriedigen, wenn die Saisons jedes Jahr kürzer werden.
+            dieses Volumen zu befriedigen, wenn die Saisons jedes Jahr kürzer werden. All das ist im folgenden 
+            Dashboard sichtbar
             
             
             ## Die Zukunft
