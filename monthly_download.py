@@ -67,12 +67,12 @@ def update_db(conn):
         new_data['Schneehöhe Jahresmittel'] = new_data['Schneehöhe Jahresmittel'].astype(float)
         new_data['Schneehöhe Monatsmittel'] = new_data['Schneehöhe Monatsmittel'].astype(float)
         for i in range(len(new_data)):
-            query = """INSERT into "Klimadaten"(station, hoehe, ort, jahre, monate, schneesummejahresmittel, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Jahresmittel'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
+            query = """INSERT into "Schneedaten"(station, hoehe, ort, jahre, monate, schneesummejahresmittel, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Jahresmittel'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
             single_insert(conn, query)
     else:
         new_data['Schneehöhe Monatsmittel'] = new_data['Schneehöhe Monatsmittel'].astype(float)
         for i in range(len(new_data)):
-            query = """INSERT into "Test"(station, hoehe, ort, jahre, monate, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
+            query = """INSERT into "Schneedaten"(station, hoehe, ort, jahre, monate, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
     
     date_query = """INSERT into "Dates"(Dates) values('%s');""" % (date.today())
     single_insert(conn, date_query)
@@ -86,7 +86,7 @@ def get_data():
     if today.day == 1:
         update_db(conn)
     # execute query to get whole dataframe
-    full_data_df = psql.read_sql('SELECT * FROM public."Klimadaten"', conn)
+    full_data_df = psql.read_sql('SELECT * FROM public."Schneedaten"', conn)
     
     # Rename columns to make it usable for further use
     full_data_df = full_data_df.rename(columns={'station': 'Station', 
