@@ -202,7 +202,7 @@ app.layout = html.Div(children=[
             werden Schneesportler und Schneesportlerinnen voraussichtlich in den kommenden Jahrzehnten immer höher 
             gehen müssen um ihr Bedürfnis zu erfüllen – bis schlussendlich kein Schnee mehr vorhanden ist auch in den 
             höchsten Gebiete.
-
+            
             Deshalb ist für die Einwohnern der Schweiz Aufmerksamkeit gefragt. Klimawandel ist ein Thema, das immer 
             wieder erscheint – in Zeitungen, Fernseher oder Blogs – aber von vielen schnell vergessen geht. Aber wenn 
             heute nichts gemacht wird, können wir vergessen mit unsere Kindern und Enkeln die Erfahrungen zu sammeln, 
