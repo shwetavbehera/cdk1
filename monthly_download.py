@@ -86,7 +86,7 @@ def get_data():
     if today.day == 1:
         update_db(conn)
     # execute query to get whole dataframe
-    full_data_df = psql.read_sql('SELECT * FROM public."Test"', conn)
+    full_data_df = psql.read_sql('SELECT * FROM public."Klimadaten"', conn)
     
     # Rename columns to make it usable for further use
     full_data_df = full_data_df.rename(columns={'staion': 'Station', 
