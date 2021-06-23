@@ -9,7 +9,6 @@ from datetime import date
 from datetime import datetime
 from wrangle.py import *
 from scrape.py import *
-#from datacrawler.py import scrape_data
 
 # Credentials for database connection
 param_dic = {
