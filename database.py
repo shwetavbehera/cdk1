@@ -1,7 +1,8 @@
 import pandas as pd
+from monthly_download.py import *
 
 # TODO: Replace reading from the Pickle file with SQL
-all_data_df = pd.read_pickle("all_data.pkl")
+all_data_df = get_data()
 
 s_monatsmittel = all_data_df[~all_data_df["Schneehöhe Monatsmittel"].isna()]
 winter_months = [10, 11, 12, 1, 2, 3, 4, 5]
