@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
 from scrape import scrape_data
+from wrangle import import_files
 
 # Credentials for database connection
 param_dic = {
