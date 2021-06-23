@@ -138,7 +138,9 @@ station_location = {
 
 
 # Here I changed the pattern to match the extracted file names.
-def import_files(pattern='*_data.txt'):
+def import_files():
+    pattern='*_data.txt'
+    alltxtfiles='*.txt'
     all_data_df = pd.DataFrame()
 
     # filename - names of all files in a specific folder matching the conditions described in glob()
@@ -179,5 +181,9 @@ def import_files(pattern='*_data.txt'):
     all_data_df = all_data_df[columns_order]
 
     all_data_df = all_data_df.rename(columns=columns)
+    
+    for filename in glob(alltxtfiles):
+            # delete data file
+            os.remove(filename)
 
     return all_data_df
