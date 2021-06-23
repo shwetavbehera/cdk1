@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!-- saved from url=(0208)https://fhnw365-my.sharepoint.com/:w:/r/personal/katarina_fatur_students_fhnw_ch/_layouts/15/Doc.aspx?sourcedoc=%7BEB8090A3-2438-4C5E-B852-F4E02ED9BE68%7D&file=AP_final.docx&action=default&mobileredirect=true -->
+<html lang="en-us" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style data-merge-styles="true"></style>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+		<meta name="robots" content="noindex">
+		<script type="text/javascript">
+			var wopiDiagClient = { docFirstFlushTime : new Date().getTime() } ;
+			var _wopiContextJson ={"HostName":"SharePoint Online","SessionId":"C2D4D49F-C0F3-2000-EA8D-F251DC24ECF3","UserId":"10032000d3cd4461","WebAppUrl":"https://CHC-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en%2DUS\u0026rs=en%2DUS\u0026WOPISrc=https%3A%2F%2Ffhnw365%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fkatarina%5Ffatur%5Fstudents%5Ffhnw%5Fch%2F%5Fvti%5Fbin%2Fwopi%2Eashx%2Ffiles%2Feb8090a324384c5eb852f4e02ed9be68\u0026wdEnableRoaming=1\u0026mscc=1\u0026wdODB=1\u0026hid=c2d4d49f-c0f3-2000-ea8d-f251dc24ecf3","FileName":"AP_final.docx","FileSize":1540008,"FileGetUrl":"https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/_layouts/15/download.aspx?UniqueId=eb8090a3-2438-4c5e-b852-f4e02ed9be68\u0026Translate=false\u0026tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZmhudzM2NS1teS5zaGFyZXBvaW50LmNvbUA5ZDFhNWZjOC0zMjFlLTQxMDEtYWU2My01MzA3MzA3MTFhYzIiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0NDg5NTQ3IiwiZXhwIjoiMTYyNDUyNTU0NyIsImVuZHBvaW50dXJsIjoibzM1MU8veHFhTU52bjVSVGJJVlJkTEhDbXh5VXJQYUlqdHlkTkZzeWJIVT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE2MiIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiWXpKa05HUTBPV1l0WXpCbU15MHlNREF3TFdWaE9HUXRaakkxTVdSak1qUmxZMll6IiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlpUaGpOMkk0WkRjdFpEQmxOaTAwTnpFMExXRmpOR0l0WVdGaFpEUXlOMlkzTnpWbCIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8c2h3ZXRhdi5iZWhlcmFAc3R1ZGVudHMuZmhudy5jaCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAwZDNjZDQ0NjFAbGl2ZS5jb20iLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyJ9.K1A4aTRyeEN4bkdKeEV0QTZDT3Y3aGQ4V0s4Wjd4NG1tNFZBbmtaTUlsUT0","BundleMajorVersion":1,"BundleUrl":"https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/_api/v2.0/drives/b!17jH6ObQFEesS6qtQn93XjwHQT8L4D1HnveeM8o9-ruuocVCRaUZS4mNkF751WpI/items/01SSQRGAVDSCAOWOBELZGLQUXU4AXNTPTI/versions/Published/streams/content_preview_O{0}/streamContent?tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZmhudzM2NS1teS5zaGFyZXBvaW50LmNvbUA5ZDFhNWZjOC0zMjFlLTQxMDEtYWU2My01MzA3MzA3MTFhYzIiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0NDg5NTQ3IiwiZXhwIjoiMTYyNDUxMTE0NyIsImVuZHBvaW50dXJsIjoiaWV5bXpKVStaWGJQUlV1ekRHVndGN0VwNHdaa3pCRmxqbjVaQ1E0SWdJdz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE5OSIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiWXpKa05HUTBPV1l0WXpCbU15MHlNREF3TFdWaE9HUXRaakkxTVdSak1qUmxZMll6IiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlpUaGpOMkk0WkRjdFpEQmxOaTAwTnpFMExXRmpOR0l0WVdGaFpEUXlOMlkzTnpWbCIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8c2h3ZXRhdi5iZWhlcmFAc3R1ZGVudHMuZmhudy5jaCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAwZDNjZDQ0NjFAbGl2ZS5jb20iLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyJ9.YUVyUjBvWU0yZXNpci93THl2ZTBTaUZLOWk1VkYvQkhJcDN4NjlJaTJ6OD0\u0026usecachedssr=1\u0026prefetchSSRCorrelationId=c2d4d49f-c0f3-2000-ea8d-f251dc24ecf3","ReadOnly":false,"IrmEnabled":false,"LabelIrmed":false,"LastModified":1624488268000,"ServerStartTime":1624489547580.957,"ServerCompleteTime":0,"DocUniqueId":"fhnw365-my.sharepoint.com_e8c7b8d7-d0e6-4714-ac4b-aaad427f775e_eb8090a3-2438-4c5e-b852-f4e02ed9be68","CTag":"{EB8090A3-2438-4C5E-B852-F4E02ED9BE68},33,32","ETag":"\"{EB8090A3-2438-4C5E-B852-F4E02ED9BE68},33\"","RumOneUpdate":true,"OpenWacInPlace":false,"TemplateInfo":null,"BundleStaleness":null,"IsAsyncBundleStale":true,"ViewOnly":false,"DelayLoadResources":true,"Origin":"","Slrid":"","WacHostFlightStatus":null,"ClickTime":0,"UniqueClick":"00000000-0000-0000-0000-000000000000","HostGeo":"CHE","PredictedOfficeAppEndPoint":"CH3","PreseededSessionKey":null,"PreseededWacSessionId":null,"WacSessionId":null,"ParentFolderFullUrl":"https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/Documents","DocAgeBucketAtViewTimeBasedOnLastModifiedTime":"16-32 mins","DocAgeBucketAtViewTimeBasedOnLastWrittenTime":"16-32 mins","DocCategoryBasedOnLastModifiedTime":"Valid","DocCategoryBasedOnLastWrittenTime":"Valid","SSRGenerationReason":"AnalysisPipeline","RecordAgeBucketsAndCategoryForRumOneUsingWopicontext":true,"ListItemId":43,"ListId":"42c5a1ae-a545-4b19-898d-905ef9d56a48","AllowedOrigins":["https://chc-word-edit.officeapps.live.com","https://chc-word-view.officeapps.live.com"],"IsPragueDocument":false,"PragueSocketStorageDiscovery":null,"ResetUriToAddressBarLink":false,"IsEduUser":true,"IsWordEarlySessionStartEnabled":false};
+			var wacInitializer = null;
+			var appName = 'Word';
+			var bootstrapperUrl = 'https://c1-word-view-15.cdn.office.net/wv/s/App_Scripts/word.boot.js';
+			var isCreateNew = false;
+			var wopiFileInfo = null;
+			var wopiAuthInfo = {
+				WopiSrc: 'https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/_vti_bin/wopi.ashx/files/eb8090a324384c5eb852f4e02ed9be68',
+				AccessToken: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkcydDJKYzlkMVZ6RkdjdzZUZy02YUhZVXk2VSJ9.eyJhdWQiOiJ3b3BpL2ZobnczNjUtbXkuc2hhcmVwb2ludC5jb21AOWQxYTVmYzgtMzIxZS00MTAxLWFlNjMtNTMwNzMwNzExYWMyIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDkwMTQwMTIyLTg1MTYtMTFlMS04ZWZmLTQ5MzA0OTI0MDE5YiIsIm5iZiI6IjE2MjQ0ODk1NDciLCJleHAiOiIxNjI0NTI1NTQ3IiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHNod2V0YXYuYmVoZXJhQHN0dWRlbnRzLmZobncuY2giLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMGQzY2Q0NDYxQGxpdmUuY29tIiwic2lnbmluX3N0YXRlIjoiW1wia21zaVwiXSIsInhtc19jYyI6IltcIkNQMVwiXSIsImlzbG9vcGJhY2siOiJUcnVlIiwiYXBwY3R4IjoiZWI4MDkwYTMyNDM4NGM1ZWI4NTJmNGUwMmVkOWJlNjg7bkRyWGw1MUIrM0tNTDY3Nk4vYklYU1hGWVE4PTtEZWZhdWx0OzsxQjAzQzQzMTJFRjtUcnVlOzs7MDtjMmQ0ZDQ5Zi1jMGYzLTIwMDAtZWE4ZC1mMjUxZGMyNGVjZjMifQ.qxspNYnAtGfNw6HmCaB2rwqO-MXTAgVDKCeaR7_-MmljhSUyANfPfFJzkIKxPRtfDkTeiAYg3D7o__8NPIFE1aJ687sy3eSNG_nbCb68aGlcuEI6RHkyRSd4WC3b6N-bEAyeoOIJmAnlH1rom2fu8Ax2YIFUEqtmztPJvHP3rLrePUIJpTHIY5hpp7SHBsVzp2olukE6dl9Nw5OOCpzdH8qO2Q6TKOzyrTW03c1VuIwY3L_WP1eqt3yhNbRX-SKSXUSfQcOYY5Q3V56RHekopBlF6Vi08eTPUyBdhnIHjT1Kke1npyTWwO3kZqeMqbWl1NGaqtBVpBaCtS_jkvrkLA',
+				AccessTokenExpiry: new Date(1624525547627)
+			};
+			var serverErr = null;
+			var _spPageContextInfo={"siteId":"{e8c7b8d7-d0e6-4714-ac4b-aaad427f775e}","webId":"{3f41073c-e00b-473d-9ef7-9e33ca3dfabb}","groupId":null,"webTemplate":"21","env":"prod","env2":"prod","isAnonymousGuestUser":false,"currentUICultureName":"en-US","systemUserKey":"i:0h.f|membership|10032000d3cd4461@live.com","userDisplayName":"Behera Shwetav (s)","userLoginName":"shwetav.behera@students.fhnw.ch","userEmail":"shwetav.behera@students.fhnw.ch","siteSubscriptionId":"9d1a5fc8-321e-4101-ae63-530730711ac2","farmLabel":"CHE_201_Content","webAbsoluteUrl":"https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch","layoutsUrl":"_layouts/15","webDomain":"sharepoint.com","aadInstanceUrl":"https://login.windows.net","aadTenantId":"9d1a5fc8-321e-4101-ae63-530730711ac2","isSPO":true,"serverTime":"2021-06-23T23:05:47.6746857Z","ExpFeatures":[-1902149632,1616247625,83975232,658452508,859539257,-1799073152,1154011138,55716893,273224740,-1676017664,1679708048,-2004696952,142723722,547045712,2683813,1879835734,369116530,825890241,-2129391097,-1998666752,1079240425,1552880555,263557636,-2080759386,340932096,-1070104064,-250052582,-1072688808,1082131568,-1771495407,143851796,-2146405216,84475931,328924628,1306562175,2116632985,-1705760632,202359989,-1746229546,1735877497,1643919428,-611260083,1078151314,-539320951,-736031732,1915707202,1008391743,-1585382545,942904958,979982880,1228070962,-2041750519,-840935943,-328169806,-1652180037,300133992,2139642707,-1921308611,-802094401,-547355824,1941918073,14925651,-341937342,-1199500179,405423520,177064,119709707,1416638914,274063408,289669152,8486948,276824082,75505664,262144],"userPhotoCdnBaseUrl":"https://fhnw365.sharepoint.com/_vti_bin/afdcache.ashx/_userprofile/userphoto.jpg?_oat_=1624557147_0be222675a68d01949cd5d32a5c3f7ff37a068a831e345f65099603c915ced46\u0026P1=1624493602\u0026P2=-1178898772\u0026P3=1\u0026P4=2iXGvx5XV6p8NRJwxh%2bZzo3aYHKiRZ4jGBsIqrC2uR0lDgz%2fMduBc9vMCrHr04xMOBCH5hymDZPlFIr1EFLdViusztYZMt4WsBaggRCf6sww2l6HHG0qNtW8lGCB8nJT0RziEy1R9t8FhGvU%2fEgEoo7IIYy53NtgJvvpYqLyKHzys62aUVuERZZ70CiHQpQO1pOaEcaJLg3pbE3VV%2fU6SwP6wbxbjTiDs%2blfWYWr60jS0glHtG67ItQvfmHlrr3hyypdmb9XPMZSnxQIe3pZgR%2bTeceSeIccRvsYh0KulZxijMBMntW9kbxCy8hHg2VoxSS%2bmrE5kVFwaLWP3%2fjaew%3d%3d"};_spPageContextInfo.updateFormDigestPageLoaded=new Date();_spPageContextInfo.clientServerTimeDelta=new Date(_spPageContextInfo.serverTime)-new Date();if(typeof(define)=='function'){define('SPPageContextInfo',[],function(){return _spPageContextInfo;});}
+			var wopiDiagServer = {"officeBundleCacheHitInfo":null,"officeBundleCacheMissInfo":null,"officeBundleGenerationTime":null,"officeBundleLastUpdateTime":null,"serverStartTime":1624489547580.957,"serverFirstFlushTime":null,"serverCompleteTime":1624489547643.488,"ssrExpirationTime":null};
+			var docTypeHint = "w";
+			var refreshIfTokenExpired = 'True' === 'True';
+			var refreshUri = 'https:\u002f\u002ffhnw365-my.sharepoint.com\u002fpersonal\u002fkatarina_fatur_students_fhnw_ch\u002f_layouts\u002f15\u002fDoc.aspx?sourcedoc={EB8090A3-2438-4C5E-B852-F4E02ED9BE68}\u0026file=AP_final.docx\u0026action=default\u0026mobileredirect=true\u0026OR=Refresh';
+			var isWacViewMode = false;
+			var clientThrottlingProtection = 'LeastProtected';
+			var requestedCallThrottling = 'Medium';
+			var supportsMoveToFolder = true;
+			var supportsCommonFilePicker = true;
+			var supportsCustomAuthConfig = false;
+		</script>
+		<link rel="shortcut icon" href="https://c1-word-view-15.cdn.office.net/wv/resources/1033/FavIcon_Word.ico">
+		<title>AP_final.docx</title>
+		<style>
+		  html { height:100%; }
+		  body { height:100%; }
+		</style>
+	<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="plt.resx-plt" src="./AP_final_files/plt.resx-plt.chunk.js.Download" crossorigin="anonymous" integrity="sha256-maNPQGpybQtY9fXdDVPt8OmduAN8TKai9wiHIL9J2wY="></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="odsp-next/roots/WacHost" src="./AP_final_files/wachostwebpack.js.Download" crossorigin="anonymous" integrity="sha256-O6kmJD2qi3xB7O7qsE9s29ZTIJayOiN1V/2bPSmTdDA="></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="odsp.aria.lib" src="./AP_final_files/odsp.aria.lib.js.Download" crossorigin="anonymous" integrity="sha256-k6nYlY6meUvL60fAazd0gIgtbjFn+m/W9DHkXhqFVD0="></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="odsp.react.lib" src="./AP_final_files/odsp.react.lib.js.Download" crossorigin="anonymous" integrity="sha256-LJGfw9xutiLhSA+GZYY0O7gZG1wnVM/YjjwrkQ2zTdg="></script><style data-load-themed-styles="true">#upsellBannerForPhone button{min-width:1px;height:32px;margin:0;padding:0;color:#000;border:0;outline:0}#upsellBannerForPhone button p{margin:0;font-size:16px}#upsellBannerForPad,#upsellBannerForPhone{position:absolute;z-index:2000;background-color:#fff;padding-top:10px;box-shadow:0 0 5px 0 rgba(0,0,0,.4)}#upsellBannerForPad iframe,#upsellBannerForPhone iframe{width:252px;height:192px;margin:0;padding:0 28px 20px 28px;border:0}[dir=rtl] #upsellBannerForPad iframe,[dir=rtl] #upsellBannerForPhone iframe{padding:0 28px 20px 28px}#upsellBannerForPad button,#upsellBannerForPhone button{min-width:1px;height:32px;margin:0;padding:0;color:#000;background-color:#fff;border:0;outline:0}#upsellBannerForPad button p,#upsellBannerForPhone button p{margin:0;font-size:16px}#upsellBannerForPad{width:310px;height:254px;top:calc(50vh - 127px)}[dir=ltr] #upsellBannerForPad{left:calc(50vw - 154px)}[dir=rtl] #upsellBannerForPad{right:calc(50vw - 154px)}[dir=ltr] #upsellBannerForPad button{margin-left:90%}[dir=rtl] #upsellBannerForPad button{margin-right:90%}#upsellBannerForPhone{width:100%;bottom:0}[dir=ltr] #upsellBannerForPhone button{margin-left:91vw}[dir=rtl] #upsellBannerForPhone button{margin-right:91vw}#upsellOverlay{width:100%;height:100%;position:absolute;z-index:1999}.od-Wac-Share-Dialog{max-width:500px;max-height:700px}.od-Wac-Share-Dialog .ms-Dialog-inner{padding:0}.od-Wac-Share-Dialog .ms-Dialog-header{display:none}.od-Wac-Share-Container{max-width:500px;max-height:700px;min-width:320px}.od-Wac-Share-Iframe{border:none}.odc-Wac-Share-Spinner{display:flex;align-items:center;justify-content:center;height:100%}</style><style data-load-themed-styles="true">.frame_84779cdd{border:none;display:block;width:1080px;height:680px;max-width:100%;max-height:100%}</style></head>
+	<body style="margin: 0; padding: 0; overflow:hidden; -ms-content-zooming: none;">
+	  <div id="WopiDocWACContainer" style="overflow:hidden;"><iframe name="WebApplicationFrame" id="WebApplicationFrame" src="./AP_final_files/saved_resource.html" title="Office Online Frame" width="100%" height="100%" marginwidth="0" marginheight="0" frameborder="0" allowfullscreen="true" allowtransparency="true" allow="microphone https://CHC-word-edit.officeapps.live.com; camera https://CHC-word-edit.officeapps.live.com;" style="inset: 0px; display: block; position: absolute; background-color: transparent; border: none;"></iframe><form id="office_form" name="office_form" action="https://chc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en%2DUS&amp;rs=en%2DUS&amp;wopisrc=https%3A%2F%2Ffhnw365-my.sharepoint.com%2Fpersonal%2Fkatarina_fatur_students_fhnw_ch%2F_vti_bin%2Fwopi.ashx%2Ffiles%2Feb8090a324384c5eb852f4e02ed9be68&amp;wdenableroaming=1&amp;mscc=1&amp;wdodb=1&amp;hid=C2D4D49F-C0F3-2000-EA8D-F251DC24ECF3&amp;wdorigin=Other&amp;jsapi=1&amp;jsapiver=v1&amp;newsession=1&amp;corrid=0d26689b-d1d1-4b81-868c-365bde4d97f7&amp;usid=0d26689b-d1d1-4b81-868c-365bde4d97f7&amp;sftc=1&amp;mtf=1&amp;sfp=1&amp;instantedit=1&amp;wopicomplete=1&amp;wdredirectionreason=Unified_SingleFlush&amp;rct=Medium&amp;ctp=LeastProtected" target="WebApplicationFrame" method="POST"><input type="hidden" name="access_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkcydDJKYzlkMVZ6RkdjdzZUZy02YUhZVXk2VSJ9.eyJhdWQiOiJ3b3BpL2ZobnczNjUtbXkuc2hhcmVwb2ludC5jb21AOWQxYTVmYzgtMzIxZS00MTAxLWFlNjMtNTMwNzMwNzExYWMyIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDkwMTQwMTIyLTg1MTYtMTFlMS04ZWZmLTQ5MzA0OTI0MDE5YiIsIm5iZiI6IjE2MjQ0ODk1NDciLCJleHAiOiIxNjI0NTI1NTQ3IiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHNod2V0YXYuYmVoZXJhQHN0dWRlbnRzLmZobncuY2giLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMGQzY2Q0NDYxQGxpdmUuY29tIiwic2lnbmluX3N0YXRlIjoiW1wia21zaVwiXSIsInhtc19jYyI6IltcIkNQMVwiXSIsImlzbG9vcGJhY2siOiJUcnVlIiwiYXBwY3R4IjoiZWI4MDkwYTMyNDM4NGM1ZWI4NTJmNGUwMmVkOWJlNjg7bkRyWGw1MUIrM0tNTDY3Nk4vYklYU1hGWVE4PTtEZWZhdWx0OzsxQjAzQzQzMTJFRjtUcnVlOzs7MDtjMmQ0ZDQ5Zi1jMGYzLTIwMDAtZWE4ZC1mMjUxZGMyNGVjZjMifQ.qxspNYnAtGfNw6HmCaB2rwqO-MXTAgVDKCeaR7_-MmljhSUyANfPfFJzkIKxPRtfDkTeiAYg3D7o__8NPIFE1aJ687sy3eSNG_nbCb68aGlcuEI6RHkyRSd4WC3b6N-bEAyeoOIJmAnlH1rom2fu8Ax2YIFUEqtmztPJvHP3rLrePUIJpTHIY5hpp7SHBsVzp2olukE6dl9Nw5OOCpzdH8qO2Q6TKOzyrTW03c1VuIwY3L_WP1eqt3yhNbRX-SKSXUSfQcOYY5Q3V56RHekopBlF6Vi08eTPUyBdhnIHjT1Kke1npyTWwO3kZqeMqbWl1NGaqtBVpBaCtS_jkvrkLA"><input type="hidden" name="access_token_ttl" value="1624525547627"><input type="hidden" name="bundleSrc" value="https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/_api/v2.0/drives/b!17jH6ObQFEesS6qtQn93XjwHQT8L4D1HnveeM8o9-ruuocVCRaUZS4mNkF751WpI/items/01SSQRGAVDSCAOWOBELZGLQUXU4AXNTPTI/versions/Published/streams/content_preview_O{0}/streamContent?tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZmhudzM2NS1teS5zaGFyZXBvaW50LmNvbUA5ZDFhNWZjOC0zMjFlLTQxMDEtYWU2My01MzA3MzA3MTFhYzIiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0NDg5NTQ3IiwiZXhwIjoiMTYyNDUxMTE0NyIsImVuZHBvaW50dXJsIjoiaWV5bXpKVStaWGJQUlV1ekRHVndGN0VwNHdaa3pCRmxqbjVaQ1E0SWdJdz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE5OSIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiWXpKa05HUTBPV1l0WXpCbU15MHlNREF3TFdWaE9HUXRaakkxTVdSak1qUmxZMll6IiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlpUaGpOMkk0WkRjdFpEQmxOaTAwTnpFMExXRmpOR0l0WVdGaFpEUXlOMlkzTnpWbCIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8c2h3ZXRhdi5iZWhlcmFAc3R1ZGVudHMuZmhudy5jaCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAwZDNjZDQ0NjFAbGl2ZS5jb20iLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyJ9.YUVyUjBvWU0yZXNpci93THl2ZTBTaUZLOWk1VkYvQkhJcDN4NjlJaTJ6OD0&amp;usecachedssr=1&amp;prefetchSSRCorrelationId=c2d4d49f-c0f3-2000-ea8d-f251dc24ecf3"><input type="hidden" name="fileGetUrl" value="https://fhnw365-my.sharepoint.com/personal/katarina_fatur_students_fhnw_ch/_layouts/15/download.aspx?UniqueId=eb8090a3-2438-4c5e-b852-f4e02ed9be68&amp;Translate=false&amp;tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvZmhudzM2NS1teS5zaGFyZXBvaW50LmNvbUA5ZDFhNWZjOC0zMjFlLTQxMDEtYWU2My01MzA3MzA3MTFhYzIiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNjI0NDg5NTQ3IiwiZXhwIjoiMTYyNDUyNTU0NyIsImVuZHBvaW50dXJsIjoibzM1MU8veHFhTU52bjVSVGJJVlJkTEhDbXh5VXJQYUlqdHlkTkZzeWJIVT0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE2MiIsImlzbG9vcGJhY2siOiJUcnVlIiwiY2lkIjoiWXpKa05HUTBPV1l0WXpCbU15MHlNREF3TFdWaE9HUXRaakkxTVdSak1qUmxZMll6IiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlpUaGpOMkk0WkRjdFpEQmxOaTAwTnpFMExXRmpOR0l0WVdGaFpEUXlOMlkzTnpWbCIsInNpZ25pbl9zdGF0ZSI6IltcImttc2lcIl0iLCJuYW1laWQiOiIwIy5mfG1lbWJlcnNoaXB8c2h3ZXRhdi5iZWhlcmFAc3R1ZGVudHMuZmhudy5jaCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAwZDNjZDQ0NjFAbGl2ZS5jb20iLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyJ9.K1A4aTRyeEN4bkdKeEV0QTZDT3Y3aGQ4V0s4Wjd4NG1tNFZBbmtaTUlsUT0"><input type="hidden" name="fileExtension" value="docx"><input type="hidden" name="fileName" value="AP_final.docx"><input type="hidden" name="fileSize" value="1540008"><input type="hidden" name="user_id" value="10032000d3cd4461"><input type="hidden" name="host_diagnostics" value="{&quot;HostInitializeDiagnostics&quot;:{&quot;entryPoint&quot;:&quot;Other&quot;,&quot;userClickTime&quot;:0,&quot;hostPageFirstFlushTime&quot;:1624489547152,&quot;officeBootstrapperStartTime&quot;:1624489547152,&quot;officeBootstrapperEndTime&quot;:1624489547198,&quot;hostInitializeCallTime&quot;:1624489547200},&quot;ClientDiagnostics&quot;:{&quot;perfNowSupported&quot;:true,&quot;browser&quot;:&quot;Chrome&quot;,&quot;touchMode&quot;:false,&quot;highContrast&quot;:false,&quot;netDownlink&quot;:10,&quot;netEffectiveType&quot;:&quot;4g&quot;,&quot;netRtt&quot;:0,&quot;netSaveData&quot;:false,&quot;deviceMemory&quot;:8,&quot;logicalProcessors&quot;:16}}"><input type="hidden" name="feature_status" value="{}"><input type="hidden" name="highDpi" value="false"><input type="hidden" name="softBlockedBrowser" value="false"><input type="hidden" name="hostName" value="SharePoint Online"><input type="hidden" name="DocID" value="fhnw365-my.sharepoint.com_e8c7b8d7-d0e6-4714-ac4b-aaad427f775e_eb8090a3-2438-4c5e-b852-f4e02ed9be68"><input type="hidden" name="ETag" value="&quot;{EB8090A3-2438-4C5E-B852-F4E02ED9BE68},33&quot;"><input type="hidden" name="frameheightpx" value="1287"><input type="hidden" name="framewidthtpx" value="1278"><input type="hidden" name="touchmode" value="false"><input type="hidden" name="highcontrast" value="false"><input type="hidden" name="forceslr" value="undefined"></form></div>
+	  <div id="ShareDialog"></div>
+	  <script>
+function ULSnv4(){var o=new Object;o.ULSTeamName="Microsoft SharePoint Foundation";o.ULSFileName="doc.aspx";return o;}
+		var WACContainerId = 'WopiDocWACContainer';
+		function loadWacHost(onload) {ULSnv4:;
+			if (typeof require === 'undefined') {
+				window.setTimeout(function() {ULSnv4:; loadWacHost(onload); }, 100);
+			} else {
+				require(['odsp-next/roots/WacHost'], function (wacHostModule) {ULSnv4:;
+					var wacHost = wacHostModule.getWacHost();
+					onload(wacHost);
+				});
+			}
+		}
+		function initializeWopiPending (appName, isPrague, isWordEarlySessionStartEnabled, initParams, wacSessionId) {ULSnv4:;
+			if (isPrague) {
+				return Microsoft.Office.Prague.Word.Application.InitializeWopiPending(initParams);
+			} else if(isWordEarlySessionStartEnabled) {
+				return Microsoft.Office[appName].Application.InitializeWopiPending(initParams, undefined, wacSessionId);
+			} else {
+				return Microsoft.Office[appName].Application.InitializeWopiPending(initParams);
+			}
+		}
+		var WacInitializer =  (function () {ULSnv4:;
+			function WacInitializer(appName, bootstrapperUrl, wopiDocContext) {ULSnv4:;
+				var _this = this;
+				this.onInitSuccess = function (app, appDetails) {ULSnv4:;
+					if (!_this.isInitCompleted()) {
+						_this._state = 3 ;
+						var diagClient = window.wopiDiagClient;
+						var wopiDiagnostics = {
+							entryPoint: _this.getOrigin(),
+							clickTime: _this.getClickTime(),
+							client: diagClient,
+							server: window.wopiDiagServer
+						};
+						var qosStartTime = diagClient.wopiInitTime;
+						loadWacHost(function (wacHost) {ULSnv4:;
+							wacHost.setWacDataCenterCookie(appDetails);
+							wacHost.sendPerfTelemetry(wopiDiagnostics, appDetails);
+							wacHost.logWacInitializationQoS(qosStartTime, 0 , "Success", "");
+							wacHost.logScriptQos(qosStartTime, _this._scriptError, _this._scriptWarning);
+							wacHost.postLogging(appDetails);
+							window.g_WACDone = true;
+						});
+					} else if (appDetails.webAppFrameReinitialized) {
+						loadWacHost(function (wacHost) {ULSnv4:;
+							if (wacHost.reinitializeWopiMessageHandler) {
+								wacHost.reinitializeWopiMessageHandler();
+							}
+						});
+					}
+				};
+				this.onInitFail = function (error, diagnostics) {ULSnv4:;
+					if (!_this.isInitCompleted()) {
+						_this._state = 4 ;
+						_this.log("Initialization failed. Error: " + error.errorType + ". Diagnostics: " + JSON.stringify(diagnostics));
+						_this.logQosOnFailure(error.errorType, 1 );
+					}
+				};
+				this.onTimeout = function () {ULSnv4:;
+					if (_this._state === 2 ) {
+						_this._state = 4 ;
+						var err = 'Initialization timed out.';
+						_this.log(err);
+						var qosStartTime = window.wopiDiagClient.wopiInitTime;
+						loadWacHost(function (wacHost) {ULSnv4:;
+							if(document.visibilityState === 'visible')
+							{
+							   wacHost.logWacInitializationQoS(qosStartTime, 1 , 'WacInit timed out', err);
+							}
+							else
+							{
+							   wacHost.logWacInitializationQoS(qosStartTime, 2 , 'WacInit timed out for not focus', err);
+							}
+							wacHost.logScriptQos(qosStartTime, _this._scriptError, _this._scriptWarning);
+							wacHost.postLogging(undefined  );
+						});
+					}
+				};
+				this.onUnload = function () {ULSnv4:;
+					if (_this._state === 2 ) {
+						_this._state = 4 ;
+						_this.logQosOnFailure('User navigated away.', 2 );
+					}
+				};
+				this.isFeatureEnabled = function (featureName) {ULSnv4:;
+					if(_this._wopiDocContext.WacHostFlightStatus &&
+						featureName in _this._wopiDocContext.WacHostFlightStatus) {
+						return _this._wopiDocContext.WacHostFlightStatus[featureName];
+					}
+				};
+				this._state = 0 ;
+				this._appName = appName;
+				this._bootstrapperUrl = bootstrapperUrl;
+				this._wopiDocContext = wopiDocContext;
+				window.g_WACDone = false;
+			}
+			WacInitializer.prototype.start = function (wopiAuthInfo) {ULSnv4:;
+				var clickTime = this.getClickTime();
+				var entryPoint = this.getOrigin();
+				try {
+					var clientDiagnostics = window.wopiDiagClient;
+					var wopiDocContext = this._wopiDocContext;
+					var container = document.getElementById(WACContainerId);
+					if (!container) {
+						throw "Cannot find the element " + WACContainerId + ".";
+					}
+					this._initParams = {
+						BootstrapperUrl: this._bootstrapperUrl,
+						Container: container,
+						SessionInformation: {
+							HostName: wopiDocContext.HostName,
+							HostSessionId: wopiDocContext.SessionId,
+							UserId: wopiDocContext.UserId,
+							DocumentClickTime: clickTime,
+							EntryPoint: entryPoint,
+							SupportsMoveToFolder: supportsMoveToFolder,
+							SupportsCommonFilePicker: supportsCommonFilePicker,
+							SupportsCustomAuthConfig: supportsCustomAuthConfig
+						},
+						WopiInfo: wopiAuthInfo,
+						ApplicationUrl: wopiDocContext.WebAppUrl.replace(/([&?])WOPISrc=&/, '$1'),
+						WopiPrecheckInfo: {
+							FileName: wopiDocContext.FileName,
+							FileGetUrl: wopiDocContext.FileGetUrl,
+							FileSize: wopiDocContext.FileSize,
+							ReadOnly: wopiDocContext.ReadOnly,
+							IrmEnabled: wopiDocContext.IrmEnabled,
+							DocUniqueId: wopiDocContext.DocUniqueId,
+							CTag: wopiDocContext.CTag,
+							ETag: wopiDocContext.ETag,
+							ViewOnly: wopiDocContext.ViewOnly,
+							HostGeo: wopiDocContext.HostGeo,
+							PreseededSessionKey: wopiDocContext.PreseededSessionKey,
+							PreseededWacSessionId: wopiDocContext.PreseededWacSessionId,
+							SupportsDecryptedContentDownload: wopiDocContext.LabelIrmed,
+							OpenViewByDefault: isWacViewMode,
+							ClientThrottlingProtection: clientThrottlingProtection,
+							RequestedCallThrottling: requestedCallThrottling
+						},
+						ApplicationCustomSettings: {
+							ForceAccessibilityMode: false
+						},
+						Diagnostics: {
+							entryPoint: entryPoint,
+							userClickTime: clickTime,
+							hostPageFirstFlushTime: clientDiagnostics.docFirstFlushTime,
+							officeBootstrapperStartTime: clientDiagnostics.bootJsStartTime,
+							officeBootstrapperEndTime: clientDiagnostics.bootJsEndTime
+						},
+						FnOnInitializeSuccess: this.onInitSuccess,
+						FnOnInitializeFailure: this.onInitFail,
+						FnIsFeatureEnabled: this.isFeatureEnabled
+					};
+					if (wopiDocContext.BundleUrl && wopiDocContext.BundleUrl.length > 0) {
+						this._initParams.WopiPrecheckInfo.BundleInfo = this.getBundleInfo(wopiDocContext);
+					}
+					if (wopiDocContext.TemplateInfo) {
+						this._initParams.NewFileTemplateSource = wopiDocContext.TemplateInfo;
+					}
+					this.configurePrague();
+					clientDiagnostics.wopiInitTime = new Date().getTime();
+					this._wopiPendingApp = initializeWopiPending(this._appName, wopiDocContext.IsPragueDocument, wopiDocContext.IsWordEarlySessionStartEnabled, this._initParams, wopiDocContext.WacSessionId);
+					if (!this._wopiPendingApp) {
+						throw "Failed to initialize WAC.";
+					}
+					this._state = 1 ;
+				}
+				catch (err) {
+					this._scriptError = (err && err.message ? err.message : "process param to JsApi error.") + ", CDN Path: " + this._bootstrapperUrl;
+					throw err;
+				}
+			};
+			WacInitializer.prototype.complete = function (wopiDocAuthInfo, wopiDocFileInfo) {ULSnv4:;
+				if (this._wopiPendingApp != null) {
+					if (this._state === 1 ) {
+						this._state = 2 ;
+						this._wopiPendingApp.Complete(wopiDocAuthInfo, wopiDocFileInfo);
+						this.log("WacInitializer.complete: Trying to complete initialization.");
+						setTimeout(this.onTimeout.bind(this), 150000);
+						window.addEventListener('beforeunload', this.onUnload);
+					}
+					else {
+						this.log("WacInitializer.complete: Skipping calling complete() the state " + this._state + " is unexpected.");
+					}
+				}
+				else {
+					this.log("WacInitializer.complete: _wopiPendingApp is null and skip calling complete().");
+				}
+			};
+			WacInitializer.prototype.fail = function (message) {ULSnv4:;
+				if (!this.isInitCompleted()) {
+					this._state = 4 ;
+					this.log("Failed: " + message);
+					if (this._wopiPendingApp != null) {
+						this._wopiPendingApp.Fail({ 'Error': message });
+					}
+					this.logQosOnFailure(message, 1 );
+				}
+			};
+			WacInitializer.prototype.getInitState = function () {ULSnv4:;
+				return this._state;
+			};
+			WacInitializer.prototype.isInitCompleted = function () {ULSnv4:;
+				return this._state === 3  || this._state === 4 ;
+			};
+			WacInitializer.prototype.logQosOnFailure = function (message, qosResult) {ULSnv4:;
+				var _this = this;
+				var qosStartTime = window.wopiDiagClient.wopiInitTime;
+				loadWacHost(function (wacHost) {ULSnv4:;
+					wacHost.logWacInitializationQoS(qosStartTime, qosResult, 'WacInit failed', message);
+					wacHost.logScriptQos(qosStartTime, _this._scriptError, _this._scriptWarning);
+				});
+			};
+			WacInitializer.prototype.log = function (message) {
+			};
+			WacInitializer.prototype.getOrigin = function () {ULSnv4:;
+				if (!this._origin) {
+					this.populateOriginAndClickTime();
+				}
+				return this._origin;
+			};
+			WacInitializer.prototype.getClickTime = function () {ULSnv4:;
+				if (!this._clickTime) {
+					this.populateOriginAndClickTime();
+				}
+				return this._clickTime;
+			};
+			WacInitializer.prototype.populateOriginAndClickTime = function () {ULSnv4:;
+				try {
+					var origin = this._wopiDocContext.Origin;
+					if (this._wopiDocContext.ClickTime) {
+						this._clickTime = this._wopiDocContext.ClickTime;
+					}
+					else if (window.sessionStorage && !this._wopiDocContext.ClickTime) {
+						var queryStr = document.location.search;
+						queryStr = unescape(queryStr);
+						if (queryStr) {
+							var idStart = queryStr.indexOf("sourcedoc=");
+							var idEnd = queryStr.substring(idStart).indexOf("&");
+							var srcId = (idEnd === -1) ? queryStr.substring(idStart) : queryStr.substring(idStart, idStart + idEnd);
+							var userClickKey = "WOPIPerf_UserClick_" + escape(srcId);
+							var userClickTime = window.sessionStorage.getItem(userClickKey);
+							if (userClickTime) {
+								origin = "DocLib";
+							}
+							window.sessionStorage.removeItem(userClickKey);
+							this._clickTime = Number(userClickTime);
+						}
+					}
+					else {
+						this._clickTime = 0;
+					}
+					this._origin = origin ? origin : "Other";
+				}
+				catch (err) {
+					this._scriptWarning = err && err.message ? err.message : "process UserClick queryString error. ";
+				}
+			};
+			WacInitializer.prototype.configurePrague = function () {ULSnv4:;
+				var pragueProperties = this._wopiDocContext.PragueSocketStorageDiscovery;
+				if (pragueProperties) {
+					this._initParams.ApplicationCustomSettings.pragueSocketStorageDiscovery = {
+						tenantId: pragueProperties.TenantId,
+						id: pragueProperties.Id,
+						deltaStorageUrl: pragueProperties.DeltaStorageUrl,
+						deltaStreamSocketUrl: pragueProperties.DeltaStreamSocketUrl,
+						snapshotStorageUrl: pragueProperties.SnapshotStorageUrl,
+						socketToken: pragueProperties.SocketToken,
+						storageToken: pragueProperties.StorageToken,
+						navSite: pragueProperties.NavSite
+					};
+				}
+			};
+			WacInitializer.prototype.getBundleInfo = function (wopiDocContext) {ULSnv4:;
+				var bundleInfo = {
+					MajorVersion: 1,
+					Url: wopiDocContext.BundleUrl
+				};
+				if (this._appName === "Excel" && !wopiDocContext.IsAsyncBundleStale) {
+					bundleInfo.BundleStaleness = wopiDocContext.BundleStaleness;
+				}
+				return bundleInfo;
+			};
+			return WacInitializer;
+		}());
+		function getRefreshCount() {ULSnv4:;
+			var regex = new RegExp('[\?&]refreshcount=([^&#]*)');
+			var rs = regex.exec(location.search);
+			return (rs == null || isNaN(Number(rs[1]))) ? 0 : Number(rs[1]);
+		}
+		function refreshIfNecessary(refreshUri, tokenExpiry) {ULSnv4:;
+			if (window.refreshIfTokenExpired) {
+				if (tokenExpiry.getTime() - new Date().getTime() < 300000 && refreshUri) {
+					window.location.replace(refreshUri + "&refreshcount=" + (getRefreshCount() + 1));
+				}
+			}
+		}
+		function initializeWac() {ULSnv4:;
+			window.wopiDiagClient.bootJsEndTime = new Date().getTime();
+			var wacInitializer = new WacInitializer(window.appName, window.bootstrapperUrl, window._wopiContextJson);
+			window.wacInitializer = wacInitializer;
+			try {
+				refreshIfNecessary(window.refreshUri, window.wopiAuthInfo.AccessTokenExpiry);
+				if (window.serverErr) {
+					wacInitializer.fail(window.serverErr);
+				} else {
+					wacInitializer.start(window.wopiAuthInfo);
+					var wopiAuthInfo = window.wopiAuthInfo;
+					if (wopiAuthInfo && wopiAuthInfo.AccessToken) {
+						wacInitializer.complete(window.wopiAuthInfo, window.wopiFileInfo);
+					}
+				}
+			}
+			catch (err) {
+				wacInitializer.fail(err);
+			}
+		}
+		function onLoadJsApiFailed() {ULSnv4:;
+			window.wopiDiagClient.bootJsEndTime = new Date().getTime();
+			var wacInitializer = new WacInitializer(window.appName, window.bootstrapperUrl, window._wopiContextJson);
+			wacInitializer.fail("failed to load JsAPI");
+		}
+		window.wopiDiagClient.bootJsStartTime = new Date().getTime();
+	  </script>
+	  <script type="text/javascript" onload="initializeWac()" onerror="onLoadJsApiFailed()" src="./AP_final_files/word.boot.js.Download"></script>
+		  <link rel="preconnect" href="https://modern.akamai.odsp.cdn.office.net/" crossorigin=""><script type="text/javascript">
+	!function(){if('PerformanceLongTaskTiming' in window){var g=window.__tti={e:[]};g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});g.o.observe({entryTypes:['longtask']})}}();
+</script><script type="text/javascript">
+	var g_responseEnd = new Date().getTime();window.performance && performance.mark('EUPL.W3CResponseEnd');window['FabricConfig'] = { fontBaseUrl: ''};window['__odsp_culture'] = 'en-us';window['__odspSriHashes'] = {"plt.resx-plt.chunk.js":"sha256-maNPQGpybQtY9fXdDVPt8OmduAN8TKai9wiHIL9J2wY=","wachostwebpack.js":"sha256-O6kmJD2qi3xB7O7qsE9s29ZTIJayOiN1V/2bPSmTdDA=","en-us/plt.resx-plt.chunk.js":"sha256-maNPQGpybQtY9fXdDVPt8OmduAN8TKai9wiHIL9J2wY=","require.js":"sha256-SL3apeMbEK3cXFCAdagjljeQ+VnbCoG1pgc9j6SKnyI=","odm.js":"sha256-02NOdP5KgjcsIjZnLyGuNPdg6bGaugAjKG/pYib4bCw=","odsp.react.lib.js":"sha256-LJGfw9xutiLhSA+GZYY0O7gZG1wnVM/YjjwrkQ2zTdg=","odsp.knockout.lib.js":"sha256-MsNPSuasxHlj1JS4rDRj8Iky5CgBWP2nUJcTvr221CA=","odsp.aria.lib.js":"sha256-k6nYlY6meUvL60fAazd0gIgtbjFn+m/W9DHkXhqFVD0="};window['__odsp_libraryScripts'] = {"odsp.react.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.react/odsp.react.lib.js","odsp.knockout.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.knockout/odsp.knockout.lib.js","odsp.aria.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.aria/odsp.aria.lib.js","odsp-media":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-06-11.003/odsp-media.js"};
+</script><script type="text/javascript" src="./AP_final_files/require.js.Download" id="requireJsScriptLink">
+
+</script><script type="text/javascript" id="requireConfig">
+	
+!function(){
+    var backupBaseUrl = 'https://az741266.vo.msecnd.net/files/odsp-web-prod_2021-06-11.003/';
+    var match = backupBaseUrl.match(/https:\/\/.*?\//);
+	var backupBaseUrlDomain = match && match[0];
+    window.__backupBaseUrl = backupBaseUrl;
+    var failOverState = window.__cdnFailOverState = {
+        baseUrlFailedOver: false,
+        modulesFalledBack: []
+    };
+    function processConfigToSupportFailOver(config) {
+        var paths = {};
+        var bundleIds = Object.keys(config.bundles);
+        for (var module in config.paths) {
+            if (bundleIds.indexOf(module) < 0) {
+                paths[module] = config.paths[module];
+            }
+        }
+        for (var bundleId in config.bundles) {
+            var bundlePath = config.paths[bundleId];
+            if (bundlePath) {
+                var backupPath = backupBaseUrl + bundlePath;
+                if (/https:\/\//.test(bundlePath) && backupBaseUrlDomain) {
+                    backupPath = bundlePath.replace(/https:\/\/.*?\//, backupBaseUrlDomain);
+                }
+                var fallbackPaths = [bundlePath, backupPath];
+                for (var _i = 0, _a = config.bundles[bundleId]; _i < _a.length; _i++) {
+                    var moduleName = _a[_i];
+                    paths[moduleName] = fallbackPaths;
+                }
+            }
+        }
+        return {
+            paths: paths,
+            shim: config.shim,
+            deps: config.deps,
+            baseUrl: config.baseUrl,
+            waitSeconds: config.waitSeconds,
+            onNodeCreated: config.onNodeCreated,
+            enforceDefine: config.enforceDefine,
+            onPathFallback: function (options) {
+                var moduleId = options.moduleId;
+                var config = options.config;
+                if (moduleId && config && config.deps && config.deps.indexOf(moduleId) >= 0) {
+                    var failedModules = failOverState.modulesFalledBack;
+                    failedModules.push(moduleId);
+                    if (!failOverState.baseUrlFailedOver && failedModules.length >= 2) {
+                        require.config({
+                            baseUrl: backupBaseUrl
+                        });
+                        failOverState.baseUrlFailedOver = true;
+                    }
+                }
+            }
+        };
+    }
+    var config = {paths:{"plt.resx-plt.chunk":"wachostwebpack/en-us/plt.resx-plt.chunk","odsp.aria.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.aria/odsp.aria.lib","odsp.react.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.react/odsp.react.lib","wachostwebpack":"wachostwebpack/wachostwebpack","odm":"odm","odsp.knockout.lib":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-02-19_20210223.001/odsp.knockout/odsp.knockout.lib","odsp-media":"https://modern.akamai.odsp.cdn.office.net/files/odsp-web-prod_2021-06-11.003/odsp-media"},bundles:{"plt.resx-plt.chunk":["plt.resx-plt"],"odsp.aria.lib":["odsp.aria.lib"],"odsp.react.lib":["odsp.react.lib"],"wachostwebpack":["odsp-next/roots/WacHost"],"odsp.knockout.lib":["odsp.knockout.lib"]},shim:{},deps:["plt.resx-plt","odsp-next/roots/WacHost"],baseUrl:"https:\u002f\u002fmodern.akamai.odsp.cdn.office.net\u002ffiles\u002fodsp-web-prod_2021-06-11.003\u002fbrotli\u002f",waitSeconds:0,onNodeCreated:function(n,c,m,u) {
+n.setAttribute("crossorigin","anonymous");
+var urlParts = u.split('/');
+var fileName = urlParts[urlParts.length - 1];
+var odspSriHashes = window.__odspSriHashes;
+var integrity = odspSriHashes && (odspSriHashes[window.__odsp_culture + '/' + fileName] || odspSriHashes[fileName]);
+if (integrity) {
+    n.setAttribute("integrity",integrity);
+}
+},enforceDefine:false};
+    var newConfig = processConfigToSupportFailOver(config);
+    window.performance && performance.mark('EUPL.RequireConfigStart');
+    require.config(newConfig);
+}();
+
+</script><script type="text/javascript">
+	window["_spModuleLink"]={"buildNumber":"odsp-web-prod_2021-06-11.003","manifestName":"WacHostWebPack","scenarioName":"WacHostWebPack","usingRedirectCookie":false,"libraries":[{"buildNumber":"odsp-web-prod_2021-02-19_20210223.001","manifestName":"odsp.react","usingRedirectCookie":false},{"buildNumber":"odsp-web-prod_2021-02-19_20210223.001","manifestName":"odsp.knockout","usingRedirectCookie":false},{"buildNumber":"odsp-web-prod_2021-02-19_20210223.001","manifestName":"odsp.aria","usingRedirectCookie":false},{"buildNumber":"odsp-web-prod_2021-06-11.003","manifestName":"odsp-media","usingRedirectCookie":false}],"bugLinkFormat":null,"ulsLinkFormat":null};
+</script>
+	  <script>
+			loadWacHost(function (wacHost) {ULSnv4:;
+					if (wacHost && wacHost.resetUrl) {
+						wacHost.resetUrl(null);
+					}
+				});
+	  </script>
+	
+
+<script type="text/javascript" nonce="">
+	var g_duration = 103;
+var g_iisLatency = 4;
+var g_cpuDuration = 76;
+var g_queryCount = 4;
+var g_queryDuration = 18;
+var g_requireJSDone = new Date().getTime();
+</script></body></html>
