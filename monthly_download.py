@@ -7,8 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
-from wrangle import *
-from scrape import *
+from scrape import scrape_data
 
 # Credentials for database connection
 param_dic = {
@@ -55,8 +54,6 @@ def update_db():
     password = "7CDB6F8990"
     start_date = last_date
     end_date = date.today().strftime('%d.%m.%Y')
-    start_date = '01.04.2021'
-    end_date = '01.05.2021'
     scrape_data(email, password, start_date, end_date)
 
     # get the txt file with the data, save the data and delete the txt file
