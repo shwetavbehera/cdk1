@@ -37,12 +37,13 @@ You need to install the following libraries:
 - data_story/ - Resources for data story.
 - explorative_analysis/ - Initial explorative analysis files.
 
-The webapp is composed by 4 components:
+The webapp is composed by 5 components:
 
 - WebApp
 - Database
 - Initial download
 - Monthly scraping
+- Datawrangler
 
 ## How to run the WebApp
 
