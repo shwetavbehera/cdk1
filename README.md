@@ -54,7 +54,7 @@ Use **cd** to go to project folder and run **python app.py**.
 
 ## Database
 
-The database consists of one Table and 2 main attrubutes (ignoring columns like time and names). It gets its data from an initial bulk load of data (import of csv into tha DB via a DBMS pgAdmin4). Then in the start of every month 01.mm.yyyy the crawler is activated, the data is wrangled and new data is fed to the DB. Finally, the full data is loaded into a dataframe and returned.
+The database consists of one Table and 2 main attrubutes (ignoring columns like time and names). It gets its data from an initial bulk load of data (import of csv into tha DB via a DBMS pgAdmin4). Then in the start of every month the crawler is activated, the data is wrangled and new data is fed to the DB. Finally, the full data is loaded into a dataframe and returned.
 
 ## Monthly scraping (Crawler)
 
