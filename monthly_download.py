@@ -7,7 +7,8 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
-wrangle.py import *
+from wrangle.py import *
+from scrape.py import *
 #from datacrawler.py import scrape_data
 
 # Credentials for database connection
