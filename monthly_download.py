@@ -94,8 +94,8 @@ def get_data():
                                                 'ort': 'Ort', 
                                                 'jahre': 'Jahre', 
                                                 'monate': 'Monate', 
-                                                'jahressumme': 'Schneehöhe Monatsmittel', 
-                                                'monatssumme': 'Schneehöhe Jahresmittel'})
+                                                'schneesummejahresmittel': 'Schneehöhe Monatsmittel', 
+                                                'schneesummemonatssmittel': 'Schneehöhe Jahresmittel'})
     
     # Convert floats to Integer
     full_data_df['Höhe'] = full_data_df['Höhe'].astype('Int64')
