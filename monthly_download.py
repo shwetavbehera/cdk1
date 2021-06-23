@@ -7,8 +7,8 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
-from wrangle.py import *
-from scrape.py import *
+from wrangle import *
+from scrape import *
 
 # Credentials for database connection
 param_dic = {
