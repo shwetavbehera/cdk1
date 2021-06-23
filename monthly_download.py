@@ -67,13 +67,15 @@ def update_db(conn):
         new_data['Schneehöhe Jahresmittel'] = new_data['Schneehöhe Jahresmittel'].astype(float)
         new_data['Schneehöhe Monatsmittel'] = new_data['Schneehöhe Monatsmittel'].astype(float)
         for i in range(len(new_data)):
-            query = """INSERT into "Test"(staion, hoehe, ort, jahre, monate, jahressumme, monatssumme) values('%s', '%s','%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Jahresmittel'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
+            query = """INSERT into "Klimadaten"(station, hoehe, ort, jahre, monate, schneesummejahresmittel, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Jahresmittel'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
             single_insert(conn, query)
     else:
         new_data['Schneehöhe Monatsmittel'] = new_data['Schneehöhe Monatsmittel'].astype(float)
         for i in range(len(new_data)):
-            query = """INSERT into "Test"(staion, hoehe, ort, jahre, monate, monatssumme) values('%s', '%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
-
+            query = """INSERT into "Test"(station, hoehe, ort, jahre, monate, schneesummemonatssmittel) values('%s', '%s','%s','%s','%s','%s');""" % (new_data['Station'].iloc[i], new_data['Höhe'].iloc[i], new_data['Ort'].iloc[i], new_data['Jahre'].iloc[i], new_data['Monate'].iloc[i], new_data['Schneehöhe Monatsmittel'].iloc[i])
+    
+    date_query = """INSERT into "Dates"(Dates) values('%s');""" % (date.today())
+    single_insert(conn, date_query)
             
 def get_data():
     # Connecting to the database
