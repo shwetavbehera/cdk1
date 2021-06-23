@@ -14,17 +14,28 @@ You need to install the following libraries:
 - pandas
 - requests
 - BeautifulSoap4
+- plotly
+- os
+- psycopg2
+- datetime 
+- sys
+- time 
+- requests
+- re
+- zipfile
+- glob
+- io
+
 
 ## Project overview
 
 - app.py - Dash webapp dashboard. Start to run server locally.
 - database.py - Data processing functions for graphs.
 - initial_download.py - Initial download, wrangle and import of data into SQL.
-- monthly_download.py - Monthly data scrape, wrangle and import of data in SQL.
+- monthly_download.py - Monthly data scrape, wrangle and insert new data into PostgreSQL DB hosted by ElephantSQL.
 - assets/ - Images for HTML.
 - data_story/ - Resources for data story.
 - explorative_analysis/ - Initial explorative analysis files.
-- sql/ - PostgreSQL related files.
 
 The webapp is composed by 4 components:
 
