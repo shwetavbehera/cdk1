@@ -89,7 +89,7 @@ def get_data():
     full_data_df = psql.read_sql('SELECT * FROM public."Klimadaten"', conn)
     
     # Rename columns to make it usable for further use
-    full_data_df = full_data_df.rename(columns={'staion': 'Station', 
+    full_data_df = full_data_df.rename(columns={'station': 'Station', 
                                                 'hoehe': 'Höhe', 
                                                 'ort': 'Ort', 
                                                 'jahre': 'Jahre', 
