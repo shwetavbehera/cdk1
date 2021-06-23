@@ -136,15 +136,20 @@ app.layout = html.Div(children=[
                 html.H1('Klimawandel in der Berge'),
             ], style={'text-align': 'center'}),
             dcc.Markdown('''
+            Was wäre der Schweizer Winter ohne Schnee? Viele Schweizer Einwohner geniessen den jährlichen Schnee. 
+            Ob durch Sport oder allgemeine Tourismus, die Wirtschaft der Schweiz profitiert von dem Zufluss 
+            von Touristen in den Bergen. Wirft man ein Blick in die Vergangenheit, sieht die heutige Situation aber 
+            duster aus. Mit dem zunehmenden Effekt vom globalen Klimawandel in den letzten 50 Jahren ist die 
+            Zukunft der Schneesport-gebiete gefährdet.**
+            
             Laut der Beherbergungsstatistik des Kantons, die idyllischen Berge Graubündens sorgen 
-            für mehr als 5 millionen Übernachtungen pro Jahr. Aber auch die märchenhaften
+            für mehr als 5 Millionen Übernachtungen pro Jahr. aber auch die märchenhaften 
             Schneehänge dieses Kantons können sich dem Klimawandel und den unvermeidlichen 
-            Veränderungen nicht entziehen. Die Klimaänderung zeigt sich nicht nur im signifikanten 
-            Temperaturanstieg, es gibt viele weitere Klimaindikatoren, welche die Klimaänderungen verdeutlichen. 
+            Veränderungen nicht entziehen. Die Klimaänderung zeigt sich nicht nur im substantiellen 
+            Temperaturanstieg, es gibt viele weitere Indikatoren, welche die Klimaänderungen verdeutlichen. 
             In der Bergwelt ist dies natürlich die Menge des Schnees. Unten kann man die Veränderungen der 
             Schneemenge in den bergigen Gebieten des Kantons Graubünden beobachten.
             
-
             Die Situation ist ernst. Schweizer Meteorologen berichten, dass nicht nur die Gesamtmenge 
             des gefallenen Schnees abgenommen hat, sondern auch die Anzahl der Tage mit Neuschnee 
             um 20-60% zurückgegangen ist, je nach Höhenlage der Station. Es ist durchaus zu erwarten, 
@@ -153,6 +158,9 @@ app.layout = html.Div(children=[
             Schnee nicht durch mehr Regen kompensiert werden, könnte es passieren, dass man statt durch 
             eine Bergwiese durch ein wüstenhaftes Terrain wandert. Zum Glück sind wir noch nicht so weit, 
             aber die Klimabedingungen ändern sich und unten kann man selbst beobachten, wie stark.
+            Das Wetter und das Klima der Schweiz werden seit mehr als 100 Jahren auf mehrere Stationen gemessen 
+            und von MeteoSchweiz zur Verfügung gestellt.
+            
 
             ''',
                          style={'margin-bottom': '30px'}),
@@ -161,17 +169,47 @@ app.layout = html.Div(children=[
                       style={'margin-bottom': '30px'}),
 
             dcc.Markdown('''
-
             Die obige Grafik zeigt die Stationen nach ihrer Höhe geordnet, von den niedrigsten Stationen
-            auf der linken Seite bis zu den am höchsten gelegenen Stationen auf der rechten Seite. Während
-            die tiefer gelegenen Stationen durchgängig niedrige mittlere Schneemengen aufweisen, zeigen
+            auf der linken Seite bis zu den an den höchsten gelegenen Stationen auf der rechten Seite. Während
+            die tiefen gelegenen Stationen durchgängig niedrige mittlere Schneemengen aufweisen, zeigen
             die höher gelegenen Stationen einen interessanten Trend mit abnehmender Schneehöhe.
-            Überraschenderweise hat der Winter 2020/21 dieses Muster durchbrochen, so dass es ein klares
+            Überraschenderweise hat das Jahr 2020 dieses Muster durchbrochen, so dass es ein klares
             in vivo Experiment ist, dass nicht alles verloren ist, wenn wir es nur schaffen, unseren
-            Kohlenstoff-Fußabdruck zu senken, was im letzten Jahr aufgrund der Pandemie geschah.
-            Abgesehen von dieser netten Anomalie mit viel Schnee in diesem Winter, die Situation ist ernst
-            und es könnte passieren, dass man statt durch eine Bergwiese bald durch ein wüstenhaftes
-            Terrain wandert. Die Klimabedingungen ändern sich und unten kann man selbst beobachten, wie stark.
+            Kohlenstoff-Fußabdruck zu senken.
+            
+           
+            ## Scuol unter die Lupe
+
+            Über 1300 liegend, bietet Scuol Ski-, Snowboardtouren, Wanderwege, Langlaufen und vieles mehr. 
+            Bis heute ist es ein sehr aktiver Schneesport Bereich, der aber gegenüber den Effekten der Zeit 
+            nicht immun ist. Über die letzten 70 Jahren, seit Beobachtungen über diese Station aufgenommen 
+            wurden, hat sich die Schneehöhe deutlich verändert. Seit 1943 bis 2020 hat sich die Schneehöhe 
+            durchschnittlich um 6 cm verringert, das sind 30% der ursprünglichen Messung.
+            
+            Nun stellt sich die frage, wie sich die Schneesport Saison sich verändert als Folge von Klimawandel. 
+            Wenn man das Verhalten der Schneehöhe innerhalb von einem Jahr in den letzten 50 Jahren betrachtet, 
+            sieht man die Veränderung des Intervals, wann Schnee vorhanden ist. Die Messwerte zeigen, dass 
+            die Saison in 2020 einige Monate später vorkommt als in 1970. Zudem gibt es auch weniger Monate mit 
+            hoher Schneehöhe. Das hat zur Folge, dass heute Schneesport Saisons kürzer sind. Mit allen 
+            Schneesportler und Schneesportlerinnen und neue Interessierte jedes Jahr, wird es schwieriger 
+            dieses Volumen zu befriedigen, wenn die Saisons jedes Jahr kürzer werden.
+            
+            
+            ## Die Zukunft
+            
+            Anhand der vergangenen Änderung des Klimas ist es deutlich vorherzusagen, dass die Situation weiterhin 
+            ein Problem für den alltäglichen Schweizer darstellen wird. Mit der weiteren Abnahme der Schneehöhe, 
+            werden Schneesportler und Schneesportlerinnen voraussichtlich in den kommenden Jahrzehnten immer höher 
+            gehen müssen um ihr Bedürfnis zu erfüllen – bis schlussendlich kein Schnee mehr vorhanden ist auch in den 
+            höchsten Gebiete.
+
+            Deshalb ist für die Einwohnern der Schweiz Aufmerksamkeit gefragt. Klimawandel ist ein Thema, das immer 
+            wieder erscheint – in Zeitungen, Fernseher oder Blogs – aber von vielen schnell vergessen geht. Aber wenn 
+            heute nichts gemacht wird, können wir vergessen mit unsere Kindern und Enkeln die Erfahrungen zu sammeln, 
+            die wir glücklicherweise bereits gesammelt haben. Hier sind persönliche Massnahmen zu finden, die ergriffen 
+            werden können, um seinen kleinen aber wichtigen Beitrag zu leisten.
+
+
 
             ''',
                          style={'margin-bottom': '30px'}),
