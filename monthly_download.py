@@ -1,12 +1,10 @@
 import os
 import psycopg2
 import pandas.io.sql as psql
-import pandas as pd
 import re
-import requests
-from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
+import sys
 from scrape import scrape_data
 from wrangle import import_files
 
@@ -45,7 +43,7 @@ def single_insert(conn, insert_req):
     cursor.close()
     
     
-def update_db():
+def update_db(conn):
     # get last date that we updated the database
     last_dates = psql.read_sql('SELECT * FROM public."Dates"', conn)
     last_date = last_dates['Dates'].iloc[-1].strftime('%d.%m.%Y')
@@ -84,7 +82,7 @@ def get_data():
     # Update the database if it is the first day of the month
     today = datetime.now()
     if today.day == 1:
-        update_db()
+        update_db(conn)
     # execute query to get whole dataframe
     full_data_df = psql.read_sql('SELECT * FROM public."Test"', conn)
     
