@@ -52,6 +52,18 @@ The webapp is composed by 5 components:
 Open Windows command prompt by typing cmd and pressing enter in the start menu.
 Use **cd** to go to project folder and run **python app.py**.
 
+## Webapp (app.py, database.py)
+
+Dash is a web framework that allows you to create web pages with Plotly graphs without writing any HTML or server code. The webpage is created by making an object model of the webpage (using dash_html_components) and then linking individual components in this model with functions - by using decorators. These functions return Plotly graphs, the transition from Jupyter Notebooks to Dash is straightforward (copy-paste the code). 
+
+We made the dashboard interactive by placing dropdown boxes which allow the users to select specific weather stations and years for which they want to see the data. The available values in the dropdown boxes were extracted from the datasets using Pandas. When a user selects a value in the dropdown menu, Dash triggers the re-generation of graphs that use the value from this dropdown as their input.
+
+The data for the graphs is loaded from database.py. Since users are supposed to play with the dashboard, we expect a lot of graph re-generation requests. Because of this we tried to do as little work as possible in the graph generation functions and wrangle as much data as possible in advance (not for every function call) inside database.py.
+
+The database.py loads data from the database and processes it into intermediate Pandas dataframes which are then used both as data for the graphs and as values for the dropdown menus. This preprocessed data remains unchanged until the next time we scrape new data.
+
+Our webapp displays correctly in Chrome, but due to a bug in Plotly it is not properly displayed in Firefox when we stack the charts in columns. The adjusted webapp version hosted on pythonanywhere.com (a site that allows you to easily run and host your python projects) works in both, Firefox and Chrome. Link to our hosted website: http://kitkat925.pythonanywhere.com/
+
 ## Database
 
 The database consists of one Table and 2 main attrubutes (ignoring columns like time and names). It gets its data from an initial bulk load of data (import of csv into tha DB via a DBMS pgAdmin4). Then in the start of every month the crawler is activated, the data is wrangled and new data is fed to the DB. Finally, the full data is loaded into a dataframe and returned.
