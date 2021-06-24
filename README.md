@@ -62,7 +62,7 @@ The data for the graphs is loaded from database.py. Since users are supposed to 
 
 The database.py loads data from the database and processes it into intermediate Pandas dataframes which are then used both as data for the graphs and as values for the dropdown menus. This preprocessed data remains unchanged until the next time we scrape new data.
 
-Our webapp displays correctly in Chrome, but due to a bug in Plotly it is not properly displayed in Firefox when we stack the charts in columns. The adjusted webapp version hosted on pythonanywhere.com (a site that allows you to easily run and host your python projects) works in both, Firefox and Chrome. Link to our hosted website: http://kitkat925.pythonanywhere.com/
+Our webapp displays correctly in Chrome, but due to a bug in Plotly it is not properly displayed in Firefox when we stack the charts in columns. The version in this repository is the final version. However an adjusted webapp version hosted on pythonanywhere.com (a site that allows you to easily run and host your python projects) works in both browsers (Firefox and Chrome), but is visually and technically less advanced. Link to our hosted website: http://kitkat925.pythonanywhere.com/
 
 ## Database
 
