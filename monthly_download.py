@@ -28,7 +28,7 @@ def connect(params_dic):
         sys.exit(1) 
     return conn
 
-# Function to inserting single row of data into the DB
+# Function to insert a single row of data into the DB
 def single_insert(conn, insert_req):
     """ Execute a single INSERT request """
     cursor = conn.cursor()
