@@ -213,12 +213,12 @@ app.layout = html.Div(children=[
             
             ## Quellen
             
-            Idaweb              - https://gate.meteoswiss.ch/idaweb/login.do;idaweb=wTw69Rl6Z2sfPbw4HcX-ix91CleZTANWW4FUq89B0BLpXEEjgrTi!1808625866  
-            SRF Statistik       - https://www.srf.ch/news/schweiz/alles-faehrt-ski-aber-nicht-die-eigenen  
-            Scuol               - https://www.engadin.com/en/node/2443  
-            Wintersportsaison   - https://www.nzz.ch/wissenschaft/klima/klimawandel-immer-kuerzere-wintersportsaison-ld.146197?reduced=true  
-            Zukunft Schneesport - https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren  
-            Massnahmen          - https://www.planat.ch/de/wissen/klimawandel/massnahmen-kw  
+            Idaweb              - https://gate.meteoswiss.ch/idaweb/login.do;idaweb=wTw69Rl6Z2sfPbw4HcX-ix91CleZTANWW4FUq89B0BLpXEEjgrTi!1808625866
+            SRF Statistik       - https://www.srf.ch/news/schweiz/alles-faehrt-ski-aber-nicht-die-eigenen
+            Scuol               - https://www.engadin.com/en/node/2443
+            Wintersportsaison   - https://www.nzz.ch/wissenschaft/klima/klimawandel-immer-kuerzere-wintersportsaison-ld.146197?reduced=true
+            Zukunft Schneesport - https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren
+            Massnahmen          - https://www.planat.ch/de/wissen/klimawandel/massnahmen-kw
 
 
 
