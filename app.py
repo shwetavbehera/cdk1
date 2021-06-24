@@ -133,14 +133,14 @@ app.layout = html.Div(children=[
                          style={'margin-bottom': '30px'}),
             ], style={'text-align': 'center'}),
             html.Div([
-                html.H1('Klimawandel in der Berge'),
+                html.H2('Klimawandel in der Berge'),
             ], style={'text-align': 'center'}),
             dcc.Markdown('''
             **Was wäre der Schweizer Winter ohne Schnee? Viele Schweizer Einwohner geniessen den jährlichen Schnee. 
             Ob durch Sport oder allgemeine Tourismus, die Wirtschaft der Schweiz profitiert von dem Zufluss 
             von Touristen in den Bergen. Wirft man ein Blick in die Vergangenheit, sieht die heutige Situation aber 
             duster aus. Mit dem zunehmenden Effekt vom globalen Klimawandel in den letzten 50 Jahren ist die 
-            Zukunft der Schneesport-gebiete gefährdet.**
+            Zukunft der Schneesport-gebiete gefährdet.**   
             
             Laut der Beherbergungsstatistik des Kantons, die idyllischen Berge Graubündens sorgen 
             für mehr als 5 Millionen Übernachtungen pro Jahr. aber auch die märchenhaften 
@@ -178,7 +178,7 @@ app.layout = html.Div(children=[
             Kohlenstoff-Fußabdruck zu senken.
             
            
-            ## Scuol unter die Lupe
+            ### Scuol unter die Lupe
 
             Über 1300 liegend, bietet Scuol Ski-, Snowboardtouren, Wanderwege, Langlaufen und vieles mehr. 
             Bis heute ist es ein sehr aktiver Schneesport Bereich, der aber gegenüber den Effekten der Zeit 
@@ -250,7 +250,7 @@ app.layout = html.Div(children=[
 
             ], style={'columnCount': 2}),
             dcc.Markdown('''
-            ## Die Zukunft
+            ### Die Zukunft
 
             Anhand der vergangenen Änderung des Klimas ist es deutlich vorherzusagen, dass die Situation weiterhin 
             ein Problem für den alltäglichen Schweizer darstellen wird. Mit der weiteren Abnahme der Schneehöhe, 
@@ -265,7 +265,7 @@ app.layout = html.Div(children=[
             werden können, um seinen kleinen aber wichtigen Beitrag zu leisten.
 
 
-            ## Quellen
+            ### Quellen
 
             [Idaweb](https://gate.meteoswiss.ch/idaweb/login.do;idaweb=wTw69Rl6Z2sfPbw4HcX-ix91CleZTANWW4FUq89B0BLpXEEjgrTi!1808625866)
 
@@ -278,6 +278,8 @@ app.layout = html.Div(children=[
             [Zukunft Schneesport](https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren)
 
             [Massnahmen](https://www.planat.ch/de/wissen/klimawandel/massnahmen-kw)
+            
+            [Das Verschwinden des Schnee](https://cdk1datastory.wordpress.com/)
 
 
             ''',
