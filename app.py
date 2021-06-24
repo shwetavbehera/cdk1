@@ -173,8 +173,8 @@ app.layout = html.Div(children=[
             auf der linken Seite bis zu den an den höchsten gelegenen Stationen auf der rechten Seite. Während
             die tiefen gelegenen Stationen durchgängig niedrige mittlere Schneemengen aufweisen, zeigen
             die höher gelegenen Stationen einen interessanten Trend mit abnehmender Schneehöhe.
-            Überraschenderweise hat das Jahr 2020 dieses Muster durchbrochen, so dass es ein klares
-            in vivo Experiment ist, dass nicht alles verloren ist, wenn wir es nur schaffen, unseren
+            Überraschenderweise hat sich dieses Muster mit der Verlangsamung der Welt im 2020  durchbrochen, so dass
+            es ein klares in vivo Experiment ist, dass nicht alles verloren ist, wenn wir es nur schaffen, unseren
             Kohlenstoff-Fußabdruck zu senken.
             
            
@@ -193,37 +193,12 @@ app.layout = html.Div(children=[
             hoher Schneehöhe. Das hat zur Folge, dass heute Schneesport Saisons kürzer sind. Mit allen 
             Schneesportler und Schneesportlerinnen und neue Interessierte jedes Jahr, wird es schwieriger 
             dieses Volumen zu befriedigen, wenn die Saisons jedes Jahr kürzer werden. All das ist im folgenden 
-            Dashboard sichtbar
+            Dashboard sichtbar.
             
-            
-            ## Die Zukunft
-            
-            Anhand der vergangenen Änderung des Klimas ist es deutlich vorherzusagen, dass die Situation weiterhin 
-            ein Problem für den alltäglichen Schweizer darstellen wird. Mit der weiteren Abnahme der Schneehöhe, 
-            werden Schneesportler und Schneesportlerinnen voraussichtlich in den kommenden Jahrzehnten immer höher 
-            gehen müssen um ihr Bedürfnis zu erfüllen – bis schlussendlich kein Schnee mehr vorhanden ist auch in den 
-            höchsten Gebiete.
-            
-            Deshalb ist für die Einwohnern der Schweiz Aufmerksamkeit gefragt. Klimawandel ist ein Thema, das immer 
-            wieder erscheint – in Zeitungen, Fernseher oder Blogs – aber von vielen schnell vergessen geht. Aber wenn 
-            heute nichts gemacht wird, können wir vergessen mit unsere Kindern und Enkeln die Erfahrungen zu sammeln, 
-            die wir glücklicherweise bereits gesammelt haben. Hier sind persönliche Massnahmen zu finden, die ergriffen 
-            werden können, um seinen kleinen aber wichtigen Beitrag zu leisten.
-            
-            
-            ## Quellen
-            
-            Idaweb              - https://gate.meteoswiss.ch/idaweb/login.do;idaweb=wTw69Rl6Z2sfPbw4HcX-ix91CleZTANWW4FUq89B0BLpXEEjgrTi!1808625866
-            SRF Statistik       - https://www.srf.ch/news/schweiz/alles-faehrt-ski-aber-nicht-die-eigenen
-            Scuol               - https://www.engadin.com/en/node/2443
-            Wintersportsaison   - https://www.nzz.ch/wissenschaft/klima/klimawandel-immer-kuerzere-wintersportsaison-ld.146197?reduced=true
-            Zukunft Schneesport - https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren
-            Massnahmen          - https://www.planat.ch/de/wissen/klimawandel/massnahmen-kw
-
-
 
             ''',
                          style={'margin-bottom': '30px'}),
+
             html.Div([
                 html.Div([
                     html.Label('Station Auswahl:'),
@@ -274,6 +249,39 @@ app.layout = html.Div(children=[
                 ]),
 
             ], style={'columnCount': 2}),
+            dcc.Markdown('''
+            ## Die Zukunft
+
+            Anhand der vergangenen Änderung des Klimas ist es deutlich vorherzusagen, dass die Situation weiterhin 
+            ein Problem für den alltäglichen Schweizer darstellen wird. Mit der weiteren Abnahme der Schneehöhe, 
+            werden Schneesportler und Schneesportlerinnen voraussichtlich in den kommenden Jahrzehnten immer höher 
+            gehen müssen um ihr Bedürfnis zu erfüllen – bis schlussendlich kein Schnee mehr vorhanden ist auch in den 
+            höchsten Gebiete.
+
+            Deshalb ist für die Einwohnern der Schweiz Aufmerksamkeit gefragt. Klimawandel ist ein Thema, das immer 
+            wieder erscheint – in Zeitungen, Fernseher oder Blogs – aber von vielen schnell vergessen geht. Aber wenn 
+            heute nichts gemacht wird, können wir vergessen mit unsere Kindern und Enkeln die Erfahrungen zu sammeln, 
+            die wir glücklicherweise bereits gesammelt haben. Hier sind persönliche Massnahmen zu finden, die ergriffen 
+            werden können, um seinen kleinen aber wichtigen Beitrag zu leisten.
+
+
+            ## Quellen
+
+            [Idaweb](https://gate.meteoswiss.ch/idaweb/login.do;idaweb=wTw69Rl6Z2sfPbw4HcX-ix91CleZTANWW4FUq89B0BLpXEEjgrTi!1808625866)
+
+            [SRF Statistik](https://www.srf.ch/news/schweiz/alles-faehrt-ski-aber-nicht-die-eigenen)
+
+            [Scuol](https://www.engadin.com/en/node/2443)
+
+            [Wintersportsaison](https://www.nzz.ch/wissenschaft/klima/klimawandel-immer-kuerzere-wintersportsaison-ld.146197?reduced=true)
+
+            [Zukunft Schneesport](https://www.republik.ch/2019/02/06/wo-koennen-wir-im-jahr-2060-noch-ski-fahren)
+
+            [Massnahmen](https://www.planat.ch/de/wissen/klimawandel/massnahmen-kw)
+
+
+            ''',
+                         style={'margin-bottom': '30px'}),
 
         ], style={'width': '1100px',
                   'display': 'inline-block',
